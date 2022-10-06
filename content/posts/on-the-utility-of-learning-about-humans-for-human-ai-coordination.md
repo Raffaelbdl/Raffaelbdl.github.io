@@ -7,7 +7,11 @@ tags:
 - reinforcement-learning
 - beginner-friendly   
 ---
+___
 Paper : http://arxiv.org/abs/1910.05789
+
+**This post is not an official paper explaination**, please read the original paper for more details.
+___
 
 The coordination / cooperation between humans and AI can be useful in many applications like robotics or video games. But this task proves to be difficult.
 

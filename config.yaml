@@ -13,16 +13,21 @@ menu:
     name: Posts
     title: posts
     url: /posts/
+
+  - identifier: about
+    name: About Me
+    title: about me
+    url: /about-me
   
 params:
     profileMode:
         enabled: true
         # title: "<Title>" # optional default will be site title
         subtitle: "Just a node in someone's graph"
-        # imageUrl: "/resources/165.jpg" # optional
+        imageUrl: "/resources/logo.png" # optional
         # imageTitle: "<title of image as alt>" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
+        imageWidth: 240 # custom size
+        imageHeight: 240 # custom size
         # buttons:
         #     - name: Blog
         #       url: "/blog"

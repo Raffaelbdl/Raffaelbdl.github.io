@@ -1,0 +1,42 @@
+baseURL: 'https://raffaelbdl.github.io/'
+title: Raffaelbdl.github.io
+theme: PaperMod
+
+menu: 
+  main:
+  - identifier: blog
+    name: Blog
+    title: blog
+    url: /blog/
+
+  - identifier: posts
+    name: Posts
+    title: posts
+    url: /posts/
+  
+params:
+    profileMode:
+        enabled: true
+        # title: "<Title>" # optional default will be site title
+        subtitle: "Just a node in someone's graph"
+        # imageUrl: "/resources/165.jpg" # optional
+        # imageTitle: "<title of image as alt>" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        # buttons:
+        #     - name: Blog
+        #       url: "/blog"
+        #     - name: Posts
+        #       url: "/posts"
+        #     - name: Github
+        #       url: "https://github.com/"
+
+    socialIcons: # optional
+        - name: "Linkedin"
+          url: "https://www.linkedin.com/in/raffaelbdl/"
+        - name: "Twitter"
+          url: "https://twitter.com/raffaelbdl"
+        - name: "Github"
+          url: "https://github.com/raffaelbdl"
+        # - name: "<platform 2>"
+        #     url: "<link2>"

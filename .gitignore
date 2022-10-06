@@ -1,0 +1,4 @@
+# Website files that are created in local
+/archetypes/
+/public/
+.hugo_build.lock
